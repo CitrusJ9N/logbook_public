@@ -1,13 +1,3 @@
-forked from [noratako5/logbook][akakari]
-
-[akakari]: https://github.com/noratako5/logbook
-
-# 赤仮
-[@noratako5](https://twitter.com/noratako5)さんの[航海日誌　拡張版　赤版改造版（赤仮）][akakari]を勝手に改造したバージョンです。
-
-## ライセンス
-赤版と赤版改造版以外のライセンスはlicenses/をご確認ください。本ソフトウェアのライセンスは現時点では未定です。
-
 ## 更新履歴
 
 | ver. | 更新内容 |
